@@ -1,11 +1,17 @@
 ,pair,cash,signal,bond price,stock price,bond hold,stock hold,commission,tax,reverse open,diff,asset value,net value,open/close
-0,128081.SZ@002203.SZ,0.0,,,,0.0,0.0,0.0,0.0,,,0.0,0.0,"0.012,0.002"
-0,113642.SH@603185.SH,0.0,,,,0.0,0.0,0.0,0.0,,,0.0,0.0,"0.023,0"
+0,pair,cash,signal,bond price,stock price,bond hold,stock hold,commission,tax,reverse open,diff,asset value,net value,open/close
+0,128081.SZ@002203.SZ,0,,,,0,0,0,0,,,0,0,"0.012,0.002"
+0,pair,cash,signal,bond price,stock price,bond hold,stock hold,commission,tax,reverse open,diff,asset value,net value,open/close
+0,113642.SH@603185.SH,0,,,,0,0,0,0,,,0,0,"0.023,0"
+0,pair,cash,signal,bond price,stock price,bond hold,stock hold,commission,tax,reverse open,diff,asset value,net value,open/close
 0,128017.SZ@002597.SZ,0.0,,,,0.0,0.0,0.0,0.0,,,0.0,0.0,"0.012,0"
 2022-09-09 09:30:00,128017.SZ@002597.SZ,3.1104739627951874,-11.0,232.728,41.13,-1.0,5.5692530120481925,0.5541496516626507,0.0,False,0.0158556602276607,-3.664623614457838,-0.5541496516626507,"0.012,0"
 2022-09-09 14:13:00,128017.SZ@002597.SZ,2.466455018409651,0.0,233.147,41.89,0.0,0.0,0.5597316104096386,0.2332960086746988,False,-0.0006447131180613,0.0,2.466455018409651,"0.012,0"
-0,110061.SH@600674.SH,0.0,,,,0.0,0.0,0.0,0.0,,,0.0,0.0,"0.006,0"
-0,113016.SH@601127.SH,0.0,,,,0.0,0.0,0.0,0.0,,,0.0,0.0,"0.017,0.003"
+0,pair,cash,signal,bond price,stock price,bond hold,stock hold,commission,tax,reverse open,diff,asset value,net value,open/close
+0,110061.SH@600674.SH,0,,,,0,0,0,0,,,0,0,"0.006,0"
+0,pair,cash,signal,bond price,stock price,bond hold,stock hold,commission,tax,reverse open,diff,asset value,net value,open/close
+0,113016.SH@601127.SH,0,,,,0,0,0,0,,,0,0,"0.017,0.003"
+0,pair,cash,signal,bond price,stock price,bond hold,stock hold,commission,tax,reverse open,diff,asset value,net value,open/close
 0,123046.SZ@300587.SZ,0.0,,,,0.0,0.0,0.0,0.0,,,0.0,0.0,"0.015,0"
 2022-09-09 14:30:00,123046.SZ@300587.SZ,4.608987905693952,-11.0,344.394,11.39,-1.0,29.759875444839857,0.8200307775800711,0.0,False,0.0162302016534301,-5.429018683274023,-0.8200307775800715,"0.015,0"
 2022-09-09 15:00:00,123046.SZ@300587.SZ,-4.488033736476856,0.0,346.9,11.39,0.0,0.0,0.8230379775800712,0.338964981316726,False,0.02372195803084,0.0,-4.488033736476856,"0.015,0"
