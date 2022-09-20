@@ -1,0 +1,31 @@
+,pair,cash,signal,bond price,stock price,bond hold,stock hold,commission,tax,reverse open,diff,asset value,net value,open/close
+0,pair,cash,signal,bond price,stock price,bond hold,stock hold,commission,tax,reverse open,diff,asset value,net value,open/close
+0,128081.SZ@002203.SZ,0.0,,,,0.0,0.0,0.0,0.0,,,0.0,0.0,"0.012,0.002"
+2022-09-20 10:00:00,128081.SZ@002203.SZ,1.3391429926509146,1-1,125.879,11.71,1.0,-10.879265091863516,0.0506550388451443,0.1273961942257218,False,-0.0122009990005773,-1.5171942257217808,-0.1780512330708661,"0.012,0.002"
+2022-09-20 15:00:00,128081.SZ@002203.SZ,-0.6224977947506293,00,126.9,11.84,0.0,0.0,0.0511420997375328,0.0,False,-0.0153638816860799,0.0,-0.6224977947506293,"0.012,0.002"
+0,pair,cash,signal,bond price,stock price,bond hold,stock hold,commission,tax,reverse open,diff,asset value,net value,open/close
+0,113642.SH@603185.SH,0,,,,0,0,0,0,,,0,0,"0.023,0"
+0,pair,cash,signal,bond price,stock price,bond hold,stock hold,commission,tax,reverse open,diff,asset value,net value,open/close
+0,128017.SZ@002597.SZ,0.0,,,,0.0,0.0,0.0,0.0,,,0.0,0.0,"0.012,0"
+2022-09-20 14:26:00,128017.SZ@002597.SZ,2.7177428716645307,-11.0,224.2,39.78,-1.0,5.565438373570521,0.089118627700127,0.0,False,0.0128167191751811,-2.8068614993646577,-0.089118627700127,"0.012,0"
+2022-09-20 15:00:00,128017.SZ@002597.SZ,-0.1438144091486646,0.0,224.5,39.88,0.0,0.0,0.0892899364675984,0.2219496823379924,False,0.0116452861278886,0.0,-0.1438144091486646,"0.012,0"
+0,pair,cash,signal,bond price,stock price,bond hold,stock hold,commission,tax,reverse open,diff,asset value,net value,open/close
+0,110061.SH@600674.SH,0,,,,0,0,0,0,,,0,0,"0.006,0"
+0,pair,cash,signal,bond price,stock price,bond hold,stock hold,commission,tax,reverse open,diff,asset value,net value,open/close
+0,113534.SH@603876.SH,0.0,,,,0.0,0.0,0.0,0.0,,,0.0,0.0,"0.019,0.002"
+2022-09-20 10:37:00,113534.SH@603876.SH,6.325176444121678,1-1,382.409,56.17,1.0,-6.930350571373233,0.1543373583188069,0.3892777915940345,False,-0.019196542320967,-6.868791594034519,-0.5436151499128412,"0.019,0.002"
+2022-09-20 13:30:00,113534.SH@603876.SH,5.645882830989753,00,381.197,55.08,0.0,0.0,0.1525841418942475,0.0,False,-0.0014720202989197,0.0,5.645882830989753,"0.019,0.002"
+0,pair,cash,signal,bond price,stock price,bond hold,stock hold,commission,tax,reverse open,diff,asset value,net value,open/close
+0,123031.SZ@300655.SZ,0,,,,0,0,0,0,,,0,0,"0.019,0"
+0,pair,cash,signal,bond price,stock price,bond hold,stock hold,commission,tax,reverse open,diff,asset value,net value,open/close
+0,113016.SH@601127.SH,0,,,,0,0,0,0,,,0,0,"0.017,0.003"
+0,pair,cash,signal,bond price,stock price,bond hold,stock hold,commission,tax,reverse open,diff,asset value,net value,open/close
+0,123046.SZ@300587.SZ,0.0,,,,0.0,0.0,0.0,0.0,,,0.0,0.0,"0.015,0"
+2022-09-20 09:37:00,123046.SZ@300587.SZ,6.050421710526273,1-1,356.625,12.6,1.0,-28.824013157894736,0.1439615131578947,0.3631825657894736,False,-0.0187091748629775,-6.557565789473642,-0.5071440789473689,"0.015,0"
+2022-09-20 13:51:00,123046.SZ@300587.SZ,6.403994950657863,00,365.7,12.67,0.0,0.0,0.1461800493421052,0.0,False,0.0014258296418649,0.0,6.403994950657863,"0.015,0"
+0,pair,cash,signal,bond price,stock price,bond hold,stock hold,commission,tax,reverse open,diff,asset value,net value,open/close
+0,123027.SZ@300487.SZ,0,,,,0,0,0,0,,,0,0,"0.022,0"
+0,pair,cash,signal,bond price,stock price,bond hold,stock hold,commission,tax,reverse open,diff,asset value,net value,open/close
+0,113025.SH@601677.SH,0,,,,0,0,0,0,,,0,0,"0.018,0"
+0,pair,cash,signal,bond price,stock price,bond hold,stock hold,commission,tax,reverse open,diff,asset value,net value,open/close
+0,113537.SH@603348.SH,0,,,,0,0,0,0,,,0,0,"0.027,0.002"
