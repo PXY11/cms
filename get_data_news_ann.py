@@ -48,6 +48,7 @@ df_total_ann = df_total_ann[['S_INFO_WINDCODE','ANN_DT','N_INFO_TITLE','author']
 cols = ['code','date','title','author']
 df_total_ann.columns = cols
 df_total_ann    
+print('*'*50,'公告提取完成','*'*50)
 ########################################################################################################################
 # get news
 import pandas as pd
@@ -118,7 +119,7 @@ def get_news(url_list,code):
     outwb.save(save_path)
     df = pd.read_excel(save_path)
     return df 
- 
+
 ########################################################################################################################
 stk_code_list = ['300587.SZ',
 '603185.SH',
@@ -137,6 +138,7 @@ stk_code_list = ['300587.SZ',
 '603596.SH',
 '300332.SZ',]
 df_news_res = []
+print('*'*50,'开始爬取新闻数据','*'*50)
 for stk_code in stk_code_list:
     code = stk_code.split('.')[0]
     pages = 1
@@ -174,3 +176,4 @@ df_total_news_ann['code_name'] = df_total_news_ann['code'] + df_total_news_ann['
 df_total_news_ann
 
 df_total_news_ann.to_excel('./news_ann/total_news_ann/news_ann.xlsx')
+print('*'*50,'新闻&公告提取完成','*'*50)
